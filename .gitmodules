@@ -1,0 +1,3 @@
+[submodule "bowling-game"]
+	path = bowling-game
+	url = git@github.com:wandersoncferreira/bowling-game.git
