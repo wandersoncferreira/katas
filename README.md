@@ -16,7 +16,7 @@ We need practice sessions.
     - There needs to be no pressure
     - You must be confortable making mistakes
     
-    *A good session*: You came out of it knowing more than when you went in.
+*A good session*: You came out of it knowing more than when you went in.
 
 
 ### References
